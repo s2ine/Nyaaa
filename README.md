@@ -1,5 +1,5 @@
 # Nyaaa
 
-Track newest anime releases and check them for downloading asap as they comes up;
+Track newest anime releases and choose the wanted ones for downloading asap as they comes up;
 
 Be careful you are doing it on your own :)
